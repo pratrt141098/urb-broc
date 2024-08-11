@@ -5,12 +5,6 @@ from utils import probability
 from utils.testing import test_equal, test_close
 import utils.counting as C
 
-l1 = [1,3,4,1,4]
-l2 = [2,4,5,6,2,3,3]
-l3 = [9,4,2,4,2,4,3]
-l3 = [9,4,2,4,2,4,3]
-l3 = [9,4,2,4,2,4,3]
-
 print("\nSOME PROBABILITY PROBLEMS\n")
 
 # Question 1
